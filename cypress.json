@@ -1,1 +1,6 @@
-{}
+{
+  "baseUrl": "https://m.aboutyou.de",
+  "viewportWidth": 375,
+  "viewportHeight": 667,
+  "chromeWebSecurity": false
+}
