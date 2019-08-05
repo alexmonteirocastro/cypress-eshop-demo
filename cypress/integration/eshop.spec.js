@@ -8,7 +8,7 @@ import * as filter from '../page_objects/filter.page'
 import * as wishlist from '../page_objects/wishlist.page'
 import * as basket from '../page_objects/basket.page'
 
-context('About you e-shop', () => {
+context('AboutYou e-shop', () => {
   before(() => {
     cy.visit('/')
     homePage.closePopup()
